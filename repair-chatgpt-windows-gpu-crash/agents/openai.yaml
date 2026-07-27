@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repair ChatGPT Windows GPU Crash"
+  short_description: "Diagnose and repair the ChatGPT Store GPU crash"
+  default_prompt: "Use $repair-chatgpt-windows-gpu-crash to diagnose my ChatGPT Windows Store crash and apply the matched reversible repair."
