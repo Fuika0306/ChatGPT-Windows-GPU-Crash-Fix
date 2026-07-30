@@ -1,4 +1,4 @@
-# ChatGPT Windows GPU Crash Fix
+# ChatGPT Windows GPU 閃退修復工具
 
 一個單一、可攜式的 Codex Skill，用來診斷並修復 Microsoft Store
 ChatGPT Windows 桌面版在開啟內建瀏覽器後閃退，接著顯示
